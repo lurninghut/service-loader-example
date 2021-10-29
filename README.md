@@ -1,7 +1,7 @@
-###Java Service Loader
+### Java Service Loader
 Java service loader is an alternate to DI frameworks like Spring.
 
-####Important Classes and files
+#### Important Classes and files
 1. Service Interface
 2. Service Implementation
 3. META-INF/services directory with a filename which is fully qualified service interface
